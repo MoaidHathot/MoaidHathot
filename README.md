@@ -2,5 +2,5 @@ I work at Microsoft on the Autonomous Driving Platform team. Ex-Microsoft Azure 
  
  - 📝 I Blog at [https://moaid.codes](https://moaid.codes)
  - 💻 Love C#, .NET and Azure.
- - 🧑🏻 [LinkedIn profile](https://www.linkedin.com/in/moaid-hathot-607a4348/)
+ - 🧑🏻 [LinkedIn profile](https://www.linkedin.com/in/moaid-hathot/)
  - 🐦 Tweet at [@MoaidHathot](https://twitter.com/MoaidHathot)

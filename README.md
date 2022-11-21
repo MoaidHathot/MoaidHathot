@@ -4,3 +4,4 @@ I work at Microsoft on the Autonomous Driving Platform team. Ex-Microsoft Azure 
  - 🐦 Tweet at [@MoaidHathot](https://twitter.com/MoaidHathot)
  - 🧑🏻 [LinkedIn](https://www.linkedin.com/in/moaid-hathot/) Profile
  - 📝 I Blog at [https://moaid.codes](https://moaid.codes)
+ - 💬 I'm on Mastodon [@Moaid](<a rel="me" href="https://hachyderm.io/@moaid">Mastodon</a>)

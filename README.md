@@ -1,7 +1,9 @@
-I work at Microsoft on the Autonomous Driving Platform team. Ex-Microsoft Azure MVP, Software Architect, Code Jedi and a speaker. I view Software development as both an Art form and a Profession, and I'm an advocate for Software Craftsmanship and Clean Code methodologies.
+Software Engieer at Microsoft | Ex-Azure MVP | Code Jedi | Software Architect | Trainer & Public Speaker.
+I approach software development as both an art and a profession, advocating for Software Craftsmanship and excellence in every line of code.
 
- - 💻 Love C#, .NET and Azure.
- - 🐦 Tweet at [@MoaidHathot](https://twitter.com/MoaidHathot)
+ - 🧑🏻‍💻 ⌨Enthusiastic about Neovim and Terminal Tools
+ - 💻 Loves C#, .NET and Azure.
+ - 🐦 Tweets at [@MoaidHathot](https://twitter.com/MoaidHathot)
  - 🧑🏻 [LinkedIn](https://www.linkedin.com/in/moaid-hathot/) Profile
  - 📝 I Blog at [https://moaid.codes](https://moaid.codes)
  - 💬 I'm on Mastodon (<a rel="me" href="https://hachyderm.io/@moaid">@Moaid</a>)

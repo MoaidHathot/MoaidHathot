@@ -1,4 +1,4 @@
-Software Engineer at Microsoft | Ex-Azure MVP | Code Jedi | Software Architect | Trainer & Public Speaker.
+Principal Software Engineer at Microsoft | Ex-Azure MVP | Code Jedi | Software Architect | Trainer & Public Speaker.
 I approach software development as both an art and a profession, advocating for Software Craftsmanship and excellence in every line of code.
 
  - 🧑🏻‍💻 Enthusiastic about Neovim and Terminal Tools
